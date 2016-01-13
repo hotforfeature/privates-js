@@ -1,0 +1,28 @@
+{
+  "name": "privates-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hotforfeature/privates-js",
+  "authors": [
+    "Andrew Mitchell <abmitchell77@gmail.com>"
+  ],
+  "description": "Private JavaScript properties using closures and WeakMaps",
+  "main": "privates.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "private",
+    "properties",
+    "class"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
